@@ -42,7 +42,6 @@ class VideoRobot():
         os.system(command)
 
     def add_subtitles(self, sentences):
-        print(sentences)
         self.subtitles_template = self.subtitles_template.format(sentences[0],
             sentences[1], sentences[2], sentences[3],
             sentences[4], sentences[5], sentences[6])
