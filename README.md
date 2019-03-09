@@ -4,6 +4,12 @@ A tool for automatic video creation and uploading on YouTube.
 
 ![](examples/execution.gif)
 
+### Result:
+
+![](examples/youtube_video.png)
+
+![](examples/youtube_video_tags.png)
+
 ## Getting Started
 
 These instructions will show you how this tool works and how to have the project up and running on your local machine.
