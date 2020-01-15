@@ -93,7 +93,7 @@ Example: [final_video.mp4](examples/final_video.mp4)
 
 # Bugs to fix:
  * Get better images;
- * Gorrect the error that causes the fifth subtitle to be skipped.
+ * Correct the error that causes the fifth subtitle to be skipped.
 
 ### Other information
 
