@@ -17,7 +17,7 @@ class ImageRobot():
                 "no_directory" : True, "size" : "large",
                 "output_directory" : self.download_directory}
 
-        return self.response.download(arguments)[keywords][0]
+        return self.response.download(arguments)[0][keywords]
 
     def rename_files(self, files):
         new_files_list = []
