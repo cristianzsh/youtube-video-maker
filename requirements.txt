@@ -1,6 +1,6 @@
 google_images_download==2.5.0
 wikipedia==1.4.0
-nltk==3.4
+nltk==3.4.5
 watson_developer_cloud==2.8.0
 google-api-python-client==1.7.8
 oauth2client==4.1.3

@@ -28,7 +28,7 @@ Python libraries:
 ```
 $ sudo pip3 install google_images_download==2.5.0
 $ sudo pip3 install wikipedia==1.4.0
-$ sudo pip3 install nltk==3.4
+$ sudo pip3 install nltk==3.4.5
 $ sudo pip3 install watson_developer_cloud==2.8.0
 $ sudo pip3 install google-api-python-client==1.7.8
 $ sudo pip3 install oauth2client==4.1.3
